@@ -2,7 +2,7 @@ const DESSERTS = [
     {
         id:1,
         name:"Puto",
-        img: "images/Puto.JPG",
+        img: "/images/Puto.JPG",
         description: "Yummy also can add cheese on top",
         price: "50pcs: $20 100pcs: $35"
     },

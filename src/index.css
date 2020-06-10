@@ -47,38 +47,4 @@ div.foodBorder{
 .title{
   margin: 40px 0px;
 }
- /* footer styles */
-footer {
-    position: static;
-    text-align: center;
-    margin-top: 10px;
-    bottom: 0;
-    width: 100%;
-    height: 2.5rem;
-  }
-  
-  footer p {
-    color: rgb(0, 0, 0);
-  }
-
-/* img styles */
-
-  img{
-    border-radius: 50%;
-    height: 200px;
-    width: 200px;
-  }
-
-
-/* Border styles */
-
-  div.foodBorder{
-    border-style: inset;
-    border-width: 2px;
-    border-color: rgb(255, 158, 31);
-  }
-
-  /* title styles */
-  .title{
-    margin: 40px 0px;
-  }
+ 
