@@ -6,7 +6,7 @@ function Dessert(props) {
             <h1>{props.name}</h1>
             <img src={props.img} alt={props.name} />
             <p>{props.description}</p>
-            <p>Price {props.price}</p>
+            <p>Price: {props.price}</p>
         </div>
     )
 }
